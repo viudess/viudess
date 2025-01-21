@@ -16,6 +16,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="35" alt="react logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
