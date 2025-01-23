@@ -23,6 +23,8 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=node" height="35" alt="html5 logo"  />
+  <img width="12" />
 </div>
 
 ###
