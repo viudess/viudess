@@ -26,6 +26,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="html5 logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="html5 logo"  />
+  <img width="12" />
 </div>
 
 ###
