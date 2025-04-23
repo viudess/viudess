@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eduardo Viudes</h1>
-<h3 align="center">💻 Web Developer | 🌍 From Brazil | 🚀 Passionate about tech, UI/UX & accessibility</h3>
+<h3 align="center">💻 Fullstack Developer | 🌍 From Brazil | 🚀 Passionate about tech & accessibility</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Fullstack+Developer;Passionate+about+building+useful+apps;Always+learning+new+techs" alt="Typing SVG" />
@@ -27,7 +27,7 @@
 ### 🌐 Connect with me
 
 <p align="left">
-  <a href="www.linkedin.com/in/eduardoviudes" target="_blank">
+  <a href="https://www.linkedin.com/in/eduardoviudes" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" />
   </a>
   <a href="mailto:viudeschorro@gmail.com">
@@ -39,11 +39,20 @@
 
 ### 🎯 About Me
 
-- 🎓 Graduating in Software Engineering at **FIAP**
-- 🎨 Enthusiast of good design and **clean code**
-
----
-
-<p align="right">
-  <img src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif" height="150" alt="Developer at work" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <ul align="left">
+          <li>🎓 Graduating in Software Engineering at <strong>FIAP</strong></li>
+          <li>🎨 Enthusiast of good design and <strong>clean code</strong></li>
+          <li>🧠 Always open to new opportunities</li>
+          <li>🎵 Music lover and passionate guitar player</li>
+        </ul>
+      </td>
+      <td>
+        <img src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif" height="150" alt="Developer at work" />
+      </td>
+    </tr>
+  </table>
+</div>
